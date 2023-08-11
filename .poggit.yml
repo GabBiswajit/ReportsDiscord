@@ -8,8 +8,8 @@ projects:
     lint: false
     libs:
       - src: CortexPE/DiscordWebhookAPI/DiscordWebhookAPI
-        version: ^1.0.2
-        branch: PM4
+        version: ^1.0.3
+        branch: PM5
       - src: jojoe77777/FormAPI/libFormAPI
         version: ^2.1.1
 ...
