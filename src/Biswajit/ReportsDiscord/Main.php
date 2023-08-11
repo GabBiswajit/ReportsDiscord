@@ -31,11 +31,12 @@ class Main extends PluginBase implements Listener
 {
 		
 		public function onEnable(): void
-    {
-      if ($this->getConfig()->get("enable-startup-alert") === true) {
+	{
+       $this->saveDefaultConfig();
+       if ($this->getConfig()->get("enable-startup-alert") === true) {
         $webhook = new Webhook($this->getConfig()->get("startup-webhook-url"));
   			$colorval = hexdec($this->getConfig()->get("startup-embed-color"));
-  			
+  		 
   			$msg = new Message();
   			$msg->setUsername($this->getConfig()->get("webhook-username"));
   			$msg->setAvatarURL($this->getConfig()->get("webhook-avatar-url"));
