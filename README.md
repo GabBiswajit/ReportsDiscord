@@ -2,7 +2,7 @@
 - This Plugin Use For Send A Report, Suggestions, Bugs In Your **Discord** Server Channel.
 
 ## Requirement's !
-- This plugin Required 2 Libs For Download Click : **[DiscordWebhookAPI Pm5](https://poggit.pmmp.io/ci/GabBiswajit/DiscordWebhookAPI/DiscordWebhookAPI)** And **[FormAPI](https://poggit.pmmp.io/ci/jojoe77777/FormAPI)**
+- This plugin Required 2 Libs For Download Click : **[DiscordWebhookAPI PM5](https://poggit.pmmp.io/ci/GabBiswajit/DiscordWebhookAPI/DiscordWebhookAPI)** And **[FormAPI](https://poggit.pmmp.io/ci/jojoe77777/FormAPI)**
 - 
 
 ## Function !
