@@ -52,4 +52,3 @@ class Webhook {
 		Server::getInstance()->getAsyncPool()->submitTask(new DiscordWebhookSendTask($this, $message));
 	}
 }
-￼Enter
