@@ -85,4 +85,3 @@ class SimpleForm extends Form {
     }
 
 }
-￼Enter
