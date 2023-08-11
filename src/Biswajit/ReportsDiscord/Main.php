@@ -29,6 +29,7 @@ use Biswajit\libs\jojoe77777\FormAPI\CustomForm;
 
 class Main extends PluginBase implements Listener
 {
+	    private $players = [];
 		
 		public function onEnable(): void
 	{
