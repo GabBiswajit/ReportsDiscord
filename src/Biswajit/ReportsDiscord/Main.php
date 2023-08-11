@@ -21,11 +21,11 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\event\Listener;
 use pocketmine\utils\TextFormat;
-use Biswajit\libs\CortexPE\DiscordWebhookAPI\Message;
-use Biswajit\libs\CortexPE\DiscordWebhookAPI\Webhook;
-use Biswajit\libs\CortexPE\DiscordWebhookAPI\Embed;
-use Biswajit\libs\jojoe77777\FormAPI\SimpleForm;
-use Biswajit\libs\jojoe77777\FormAPI\CustomForm;
+use CortexPE\DiscordWebhookAPI\Message;
+use CortexPE\DiscordWebhookAPI\Webhook;
+use CortexPE\DiscordWebhookAPI\Embed;
+use jojoe77777\FormAPI\SimpleForm;
+use jojoe77777\FormAPI\CustomForm;
 
 class Main extends PluginBase implements Listener
 {
