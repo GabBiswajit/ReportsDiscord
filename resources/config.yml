@@ -1,0 +1,53 @@
+startup-webhook-url: "" # Add Your Discord Webhook Url Here 
+report-webhook-url: "" #  Add Your Discord Webhook Url Here 
+suggest-webhook-url: "" #  Add Your Discord Webhook Url Here 
+bug-webhook-url: "" # Add Your Discord Webhook Url Here 
+ 
+webhook-username: "EliteGames" # Replace Elitegames To Your Server Name
+suggest-webhook-username: "Suggestions"
+bug-webhook-username: "Bugs"
+report-webhook-username: "Report"
+
+webhook-avatar-url: "https://i.imgur.com/SE7lQPX.png"
+suggest-webhook-avatar-url: "https://i.imgur.com/EHigDU8.png"
+bug-webhook-avatar-url: "https://i.imgur.com/Y1wEA7w.png"
+report-webhook-avatar-url: "https://i.imgur.com/gP9n9zJ.png"
+
+report-embed-color: "40E0D0"
+suggest-embed-color: "FFBF00"
+bug-embed-color: "FF7F50"
+startup-embed-color: "00FF00"
+shutdown-embed-color: "FF0000"
+
+startup-thumbnail-url: ""
+suggest-thumbnail-url: "https://i.imgur.com/EHigDU8.png"
+bug-thumbnail-url: "https://i.imgur.com/Y1wEA7w.png"
+report-thumbnail-url: "https://i.imgur.com/gP9n9zJ.png"
+
+# Start Your Own Setup From Here
+enable-startup-alert: true
+
+enable-shutdown-alert: true
+
+startup-message-title: ":white_check_mark: A Server has started !"
+
+startup-embed-field-title: "NORMAL STARTUP"
+
+startup-embed-field-message: "This was a normal startup."
+
+startup-footer-image-url: ""
+
+startup-footer-message: "Powered by EliteGames"
+
+shutdown-message-title: ":x: A Server has stopped !"
+
+shutdown-embed-field-title: "NORMAL SHUTDOWN"
+
+shutdown-embed-field-message: "This was a normal shutdown."
+
+shutdown-footer-image-url: ""
+
+shutdown-footer-message: "Powered by EliteGames"
+
+
+￼Enter
