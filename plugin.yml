@@ -1,0 +1,29 @@
+name: ReportsDiscord
+author: Biswajit
+version: 1.0.0
+api: 5.0.0
+main: Biswajit\ReportsDiscord\Main
+
+commands:
+ report:
+  permission: ReportsDiscord.cmd.report
+  description: §eReport Player, Bugs And Give Suggestions
+ playerreport:
+  permission: ReportsDiscord.cmd.playerreport
+  description: §eReport Player
+ suggest:
+  permission: ReportsDiscord.cmd.suggest
+  description: §eGive Suggestions
+ bug: 
+  permission: ReportsDiscord.cmd.bug
+  description: §eBug Reports
+  
+permissions: 
+ ReportsDiscord.cmd.bug:
+  default: true
+ ReportsDiscord.cmd.report:
+  default: true
+ ReportsDiscord.cmd.suggest:
+  default: true
+ ReportsDiscord.cmd.playerreport:
+  default: true
