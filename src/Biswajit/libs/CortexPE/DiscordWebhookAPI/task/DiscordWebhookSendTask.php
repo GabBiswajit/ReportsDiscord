@@ -64,4 +64,3 @@ class DiscordWebhookSendTask extends AsyncTask {
 		}
 	}
 }
-￼Enter
