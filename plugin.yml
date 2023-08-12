@@ -4,6 +4,7 @@ version: 1.0.0
 api: 5.0.0
 main: Biswajit\ReportsDiscord\Main
 
+
 commands:
  report:
   permission: ReportsDiscord.cmd.report
